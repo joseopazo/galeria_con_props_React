@@ -1,0 +1,26 @@
+
+.cards{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.tituloh1{
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgb(72, 68, 68);
+
+}
+
+h1{
+    color: white;
+    background-color: black;
+}
+
+footer{
+    color: white;
+   margin-bottom: 20px;
+   background-color: brown;
+}
